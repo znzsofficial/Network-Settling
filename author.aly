@@ -1,0 +1,13 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  id="backc";
+  layout_width="fill";
+  gravity="center";
+  orientation="vertical";
+  {
+    CircleImageView;
+    id="img";
+    src="res/author.png";
+  };
+};
